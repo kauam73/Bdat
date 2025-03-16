@@ -3,12 +3,12 @@
     "nome": "Pack animações inicialização Tek~❎",
     "conteudo": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/kauam73/tkrs/refs/heads/main/2.lua\"))()",
     "name": "Pack animações inicialização Tek",
-    "senha": "null"
+    "senha": ""
   },
   {
     "nome": "tek-Aimbot Button V3~❎",
     "conteudo": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/kauam73/tkrs/refs/heads/main/1.lua\"))()",
     "name": "aimbot-betaV2",
-    "senha": "null"
+    "senha": ""
   }
 ]
